@@ -1,0 +1,6 @@
+top menu : 935 X 77
+background : 975X 
+top header : 935 X290px
+menu : 935 X 130px
+gallery : 935X600px
+thumbnail : 300 X300p
